@@ -1,0 +1,110 @@
+absl-py==2.1.0
+albumentations==1.3.0
+annotated-types==0.7.0
+astor==0.8.1
+astunparse==1.6.3
+basemap @ file:///croot/basemap-split_1705009823503/work/packages/basemap
+basemap-data @ file:///croot/basemap-split_1705009823503/work/packages/basemap_data
+bleach==6.1.0
+Brotli @ file:///croot/brotli-split_1714483155106/work
+cachetools==5.3.3
+certifi @ file:///croot/certifi_1707229174982/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+contourpy @ file:///opt/conda/conda-bld/contourpy_1663827406301/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+efficientnet_pytorch==0.7.1
+filelock==3.14.0
+flatbuffers==24.3.25
+fonttools @ file:///croot/fonttools_1713551344105/work
+fsspec==2024.5.0
+gast==0.4.0
+gitdb==4.0.11
+GitPython==3.1.43
+google-auth==2.29.0
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.64.0
+h5py==3.11.0
+huggingface-hub==0.23.1
+idna @ file:///croot/idna_1714398848350/work
+imageio==2.34.1
+importlib-resources @ file:///croot/importlib_resources-suite_1704281845041/work
+importlib_metadata==7.1.0
+joblib==1.4.2
+kaggle==1.6.14
+keras==2.13.1
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///croot/kiwisolver_1672387140495/work
+lazy_loader==0.4
+libclang==18.1.1
+lightning-utilities==0.11.2
+Markdown==3.6
+MarkupSafe==2.1.5
+matplotlib==3.7.5
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+munch==4.0.0
+networkx==3.1
+numpy==1.24.3
+oauthlib==3.2.2
+opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+opt-einsum==3.3.0
+packaging @ file:///croot/packaging_1710807400464/work
+pandas==2.0.3
+pillow==10.3.0
+pretrainedmodels==0.7.4
+protobuf==4.25.3
+psutil==5.9.8
+pyasn1==0.6.0
+pyasn1_modules==0.4.0
+pydantic==2.7.1
+pydantic_core==2.18.2
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+pyproj==1.9.6
+pyshp @ file:///croot/pyshp_1706100959184/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+python-slugify==8.0.4
+pytz==2024.1
+PyWavelets==1.4.1
+PyYAML==6.0.1
+qudida==0.0.4
+requests @ file:///croot/requests_1707355572290/work
+requests-oauthlib==2.0.0
+rsa==4.9
+safetensors==0.4.3
+scikit-image==0.21.0
+scikit-learn==1.3.2
+scipy==1.10.1
+seaborn==0.13.2
+segmentation-models-pytorch==0.3.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap==5.0.1
+tensorboard==2.13.0
+tensorboard-data-server==0.7.2
+tensorflow==2.13.1
+tensorflow-estimator==2.13.0
+tensorflow-io-gcs-filesystem==0.34.0
+termcolor==2.4.0
+text-unidecode==1.3
+thop==0.1.1.post2209072238
+threadpoolctl==3.5.0
+tifffile==2023.7.10
+timm==0.9.2
+torch==1.13.1+cu117
+torch-tb-profiler==0.4.3
+torchaudio==0.13.1+cu117
+torchmetrics==1.4.0.post0
+torchvision==0.14.1+cu117
+tqdm==4.66.4
+typing_extensions==4.5.0
+tzdata==2024.1
+unicodedata2 @ file:///croot/unicodedata2_1713212950228/work
+urllib3 @ file:///croot/urllib3_1715635851070/work
+webencodings==0.5.1
+Werkzeug==3.0.3
+wrapt==1.16.0
+zipp @ file:///croot/zipp_1704206909481/work
